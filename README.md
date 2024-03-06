@@ -3,6 +3,10 @@
 I'm passionate about **creating new things** ⚡, turning **imagination into reality** , and **continuously learning** . 
 
 ** Socials:**
+**W3Schools Profile:**
+
+[W3Schools Profile](https://www.w3profile.com/cameliacalin)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameliacalin/)
 
@@ -31,7 +35,5 @@ I'm passionate about **creating new things** ⚡, turning **imagination into rea
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=CameliaCalin&icon=1&color=5)](https://visitcount.itsvg.in)
 
-**W3Schools Profile:**
 
-[W3Schools Profile](https://www.w3profile.com/cameliacalin)
 

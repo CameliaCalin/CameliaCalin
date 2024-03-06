@@ -16,6 +16,8 @@ I'm passionate about **creating new things** ⚡, turning **imagination into rea
 - **Leadership**: I have leadership skills that help me motivate and guide teams towards common goals.
 - **Problem-Solving**: I'm adept at approaching and solving complex problems.
 - **Communication**: I have excellent communication skills, both written and verbal.
+- **Educational Skills**: As an educator, I possess skills in curriculum development, lesson planning, and classroom management.
+- **IT Proficiency**: I'm proficient in using technology for educational purposes and have a keen interest in the IT field.
 
 ## Social Profiles:
 - [W3Schools Profile](https://www.w3profile.com/cameliacalin)

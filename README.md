@@ -1,6 +1,10 @@
 ## ️ Hi, everybody! I'm Camelia Calin ️
 
-![Hi, everybody! I'm Camelia Calin](https://media.giphy.com/media/l1J9uMQrxm4NJeW5K/giphy.gif)
+![Hi, everybody! I'm Camelia Calin]<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<p align="center">
 
 I'm passionate about **creating new things** ⚡, turning **imagination into reality**, and **continuously learning**.
 

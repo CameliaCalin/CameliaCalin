@@ -1,5 +1,7 @@
 ## ️ Hi, everybody! I'm Camelia Calin ️
 
+![Hi, everybody! I'm Camelia Calin](https://media.giphy.com/media/l1J9uMQrxm4NJeW5K/giphy.gif)
+
 I'm passionate about **creating new things** ⚡, turning **imagination into reality**, and **continuously learning**.
 
 ## My Passions

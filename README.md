@@ -1,4 +1,4 @@
-    ##  Hi, everybody! I'm Camelia Calin ️
+                                                  Hi, everybody! I'm Camelia Calin ️
 
 I'm passionate about **creating new things** ⚡, turning **imagination into reality**, and **continuously learning**.
 
